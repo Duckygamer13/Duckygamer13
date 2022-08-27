@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm ducc! <img src="https://c.tenor.com/zTKB-sgR15sAAAAM/smile-eyes-smiley.gif" width="30px">
 
 <!--
 **Duckygamer13/Duckygamer13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
