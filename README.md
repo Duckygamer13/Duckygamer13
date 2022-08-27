@@ -1,6 +1,6 @@
 ### Hi there, I'm ducc! <img src="https://c.tenor.com/zTKB-sgR15sAAAAM/smile-eyes-smiley.gif" width="18px">
 
---
+---
 
 ![Twitch Status](https://img.shields.io/twitch/status/duckygamer_13?label=duckygamer_13&style=social) 
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/Ducky_Gamer_13?label=%2Fu%2FDucky_Gamer_13&style=social)
